@@ -1,1 +1,3 @@
-web: node . --db mongodb+srv://Ultima:AKUN0505||@cluster0.gdu6e5c.mongodb.net/?retryWrites=true&w=majority
+worker: npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+
+
