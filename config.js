@@ -13,7 +13,7 @@ global.pulsa = '082253479547'
 global.gopay = '082253479547'
 
 //=============『 Info Bot 』=================//
-global.namebot = '⌬ LEXA-MD'
+global.namebot = '⌬ Felicia-MD'
 global.gc = 'https://chat.whatsapp.com/CXh8962GOxK6cwDwLjlABw'
 global.web = 'https://instagram.com/katyushaclara' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '◩─────〔 *SEWA*〕──────◩\n1 Bulan = 12.000\n2 Minggu = 7.000\n1 Minggu = 5.000\n◩────────────────────◩'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/42f6da98e7fac8be363eb.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/fc5b8ab2bfbb8e7b388a4.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '⌬ LEXA-MD'
+global.wm = '⌬ Felicia-MD'
 global.watermark = wm
 global.wm2 = '╼┅━━┅╾「 ⌬ LEXA-MD 」╼┅━━┅╾'
-global.wm3 = '⌬ LEXA-MD'
+global.wm3 = '⌬ Felicia-MD'
 global.htki = '╼┅━━┅╾『' 
 global.htka = '』╼┅━━┅╾'
 global.media = 'https://telegra.ph/file/0750bd40c3f29f504c8e2.jpg'
@@ -36,7 +36,7 @@ global.eror = '*[❗] Servers Error*'
 global.benar = '*「✅」BENAR*\n'
 global.salah = '*「❌」SALAH*\n'
 global.stiker_wait = '*[⏳]  Stickers In Progress*'
-global.packname = '⌬ LEXA-MD'
+global.packname = '⌬ Felicia-MD'
 global.author = '6282253479547'
 
 //=============『 Apikey 』================== //
