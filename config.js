@@ -19,8 +19,8 @@ global.web = 'https://instagram.com/katyushaclara' //ubah jadi website lu, bisa 
 global.price1 = '◩─────〔 *SEWA*〕──────◩\n1 Bulan = 12.000\n2 Minggu = 7.000\n1 Minggu = 5.000\n◩────────────────────◩'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/42f6da98e7fac8be363eb.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/fc5b8ab2bfbb8e7b388a4.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/4f472cafcd9125b382339.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/4f472cafcd9125b382339.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '⌬ Felicia-MD'
